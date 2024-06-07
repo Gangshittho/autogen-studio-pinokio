@@ -1,4 +1,4 @@
-69888666666666666666666666666-module.exports = () =>
+module.exports = () =>
 {
 	const config =
 	{
